@@ -329,6 +329,14 @@ for example on this video :
 https://drive.google.com/file/d/15b0oihncMzSBX9WLerMG2T2YIOtYMaNQ/view?usp=share_link
 we can start Recording for each step and get the element
 
+NOTES :
+these is the link repository on Github
+for SwagLabs apps (Mobile Automations) :
+https://github.com/RudiRust0501/SwagLabsFlip.git
+
+and for API Automation Test :
+https://github.com/RudiRust0501/GetGender.git
+
 
 
 
